@@ -29,3 +29,6 @@ function changeBlock(x,y){
         element.setAttribute('class', 'block clicked');
     }
 }
+
+
+jfkdls;jafkldsjfkl;dsajfkl;dsjafkl;dsa
