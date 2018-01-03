@@ -30,5 +30,3 @@ function changeBlock(x,y){
     }
 }
 
-
-jfkdls;jafkldsjfkl;dsajfkl;dsjafkl;dsa
